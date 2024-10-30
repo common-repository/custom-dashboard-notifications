@@ -1,0 +1,27 @@
+body#tinymce {
+    color: #333!important;
+    font-family: Georgia,"Times New Roman","Bitstream Charter",Times,serif!important;
+    font-size: 16px!important;
+    line-height: 1.5!important;
+    margin: 9px 10px!important;
+    max-width: 100%!important;
+    overflow-wrap: break-word!important;
+}
+
+.custom-cdn-wrap {
+	width: 85%;
+}
+
+img.alignright{margin:10px 0 20px 20px;}
+img.alignleft{margin:10px 20px 20px 0;}
+img.aligncenter{display:block;margin:0 auto 10px;}
+
+#widget_show_notifications {
+	overflow: hidden;
+	display: block;
+	clear: both;
+}
+
+#widget_show_notifications h2.hndle.ui-sortable-handle {
+	color: #ff0000;
+}
